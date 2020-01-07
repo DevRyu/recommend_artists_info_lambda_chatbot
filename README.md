@@ -1,5 +1,6 @@
 # recommend_artists_info_lambda_chatbot
-AWS Lambda와 Facebook Messanger로 챗봇서비스를 구현했습니다
+AWS Lambda와 Facebook Messanger로 챗봇서비스를 구현했습니다    
+
 ![Alt Text](https://media.giphy.com/media/WRuKCnc1DyAZZ6E3Cc/giphy.gif)
 
  Messenger, Lambda, DynamoDB, EC2, Shell, RDS(Mysql)    
